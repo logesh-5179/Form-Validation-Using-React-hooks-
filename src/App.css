@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  display: flex;
+ flex-direction: column;
+  margin: 10px;
+}
+button{
+  padding: 10px;
+}
+p{
+  padding: 10px;
+}
+li{
+  list-style-type: none;
+}
